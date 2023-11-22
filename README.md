@@ -1,11 +1,11 @@
 - 👋 Hi there, I’m @alakiulovesdata
   
 🔍 I’m a passionate data analyst specialising in:
-✨ Data migration
-📊 Data analysis
-🛠️ Data quality assurance
-📚 Data governance
-🔍 Problem-solving in complex datasets
+- ✨ Data migration
+- 📊 Data analysis
+- 🛠️ Data quality assurance
+- 📚 Data governance
+- 🔍 Problem-solving in complex datasets
 
 💞️ I’m eager to collaborate on projects related to innovative data solutions or impactful data analysis.
 
