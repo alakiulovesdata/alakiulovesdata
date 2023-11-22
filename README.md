@@ -1,6 +1,7 @@
 - 👋 Hi there, I’m @alakiulovesdata
   
 🔍 I’m a passionate data analyst specialising in:
+
 - ✨ Data migration
 - 📊 Data analysis
 - 🛠️ Data quality assurance
