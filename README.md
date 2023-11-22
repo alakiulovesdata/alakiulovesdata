@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m @alakiulovesdata
   
-🔍 I’m a passionate data analyst based in London UK, specialising in:
+🔍 I’m a passionate business and data analyst based in London UK, specialising in:
 
 - ✨ Data migration
 - 📊 Data analysis
